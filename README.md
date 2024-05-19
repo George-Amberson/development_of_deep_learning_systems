@@ -7,7 +7,7 @@ git clone https://github.com/George-Amberson/development_of_deep_learning_system
 ```
 2. Перейти в папку:
 ```shell script
-cd Development_of_deep_learning_systems 
+cd development_of_deep_learning_systems
 ```
 3. Собрать докер:
 ```shell script
