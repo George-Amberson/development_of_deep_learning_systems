@@ -3,7 +3,7 @@
 ## Инструкция:
 1. Склонировать:
 ```shell script
-git clone https://github.com/George-Amberson/development_of_deep_learning_systems
+git clone https://github.com/George-Amberson/development_of_deep_learning_systems.git
 ```
 2. Перейти в папку:
 ```shell script
